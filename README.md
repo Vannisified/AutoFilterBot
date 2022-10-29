@@ -1,10 +1,6 @@
 ###  Auto FilterBot
 
-<img src="" alt="Bot Img">
-
-----
-
-### Subscribe
+<img src="https://chatlayer.ai/wp-content/uploads/2022/04/Telegram-Bots-CL-Blog-Title-01.png" alt="Bot Img">
 
 ----
 
